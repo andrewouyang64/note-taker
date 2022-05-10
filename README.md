@@ -16,6 +16,8 @@ No installation is required. Just to interact with the home page shown on browse
 
 ## Usage
 To generate, save and delete notes as user wnats.
+Please click on this link:
+HEROKU deployment link: https://secret-bastion-48212.herokuapp.com
 
 ![Screenshot](assets/images/screenshot.png)
 
@@ -37,8 +39,8 @@ My email:
 andrew.ouyang@hotmail.com
 
 ## Github username
-andrewouyang64/note-taker
-HEROKU deployment link:https://secret-bastion-48212.herokuapp.com
+andrewouyang64
+
 
 ## Tests
 None
