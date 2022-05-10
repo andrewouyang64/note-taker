@@ -1,6 +1,21 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "id": "a30a87ca-ec7f-4306-b9c2-449c8d73ca33",
+        "title": "Shopping list",
+        "text": "Milk, bread, apple"
+    },
+    {
+        "id": "754ee061-fe92-4dc8-87c4-1a847420c4d0",
+        "title": "Meeting",
+        "text": "At 12:00pm, office with David"
+    },
+    {
+        "id": "e3a2f3c6-473f-447a-86ff-b60ac260244e",
+        "title": "Dinning out",
+        "text": "Seafood restaurant tonight"
     }
 ]
