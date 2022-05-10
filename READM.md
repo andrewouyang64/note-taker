@@ -38,7 +38,7 @@ andrew.ouyang@hotmail.com
 
 ## Github username
 andrewouyang64/note-taker
-HEROKU deployment link:
+HEROKU deployment link:https://secret-bastion-48212.herokuapp.com
 
 ## Tests
 None
